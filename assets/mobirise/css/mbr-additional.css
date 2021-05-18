@@ -999,11 +999,11 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/colin-watts-9kaae9vge1o-unsplash.jpg");
 }
 .cid-qyY7WeZi1w H1 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qyY7WeZi1w .mbr-text,
 .cid-qyY7WeZi1w .mbr-section-btn {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qyY86DMi8M {
   padding-top: 90px;
@@ -1108,6 +1108,9 @@ section.lazy-placeholder:after {
   .cid-qyY8bejFde .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-qyY8bejFde H4 {
+  color: #767676;
 }
 .cid-qyY8cdFamZ {
   padding-top: 90px;
@@ -1234,7 +1237,7 @@ section.lazy-placeholder:after {
 }
 .cid-qyY8jnoXDT {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr-1618x1080.jpg");
 }
 .cid-qyY8jnoXDT .mbr-iconfont-social {
