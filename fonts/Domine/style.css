@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Domine';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/user/ueda_website/fonts/Domine/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Domine';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/user/ueda_website/fonts/Domine/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Domine';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/user/ueda_website/fonts/Domine/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Domine';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/user/ueda_website/fonts/Domine/regular.ttf') format('truetype');
+}
