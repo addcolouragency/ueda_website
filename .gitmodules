@@ -1,0 +1,3 @@
+[submodule "ueda_website/ueda_website"]
+	path = ueda_website/ueda_website
+	url = https://github.com/addcolouragency/ueda_website.git
